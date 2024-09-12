@@ -3,7 +3,7 @@
 🌱 **Repositories** 🌱
 |   Topic   |     Title     |    Resource  | Publication
 |:---------:|:-------------:|:------------:|:---------:|
-|   HSI Clustering  |   [SDST: Self-supervised Double-Structure Transformer for Hyperspectral Images Clustering](https://www.sciencedirect.com/science/article/pii/S1566253523001100) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462168) [![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/DRSR?style=social)]([https://github.com/XY-boy/DRSR](https://github.com/YiLiu1999/SDST)) | TGRS
+|   HSI Clustering  |   [SDST: Self-supervised Double-Structure Transformer for Hyperspectral Images Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462168) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462168) [![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/DRSR?style=social)]([https://github.com/XY-boy/DRSR](https://github.com/YiLiu1999/SDST)) | TGRS
 
 <!--
 **XY-boy/XY-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
