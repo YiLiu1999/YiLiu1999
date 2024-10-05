@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning HSI Clustering
 - 🔭 I’m currently working on Chongqing University
-- 📫 How to reach me: liuyi@stu.cqu.edu.cn
+- 📫 How to reach me: liuyi@stu.cqu.edu.cn/liu979935@gmail.com
 <!--
 **XY-boy/XY-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
