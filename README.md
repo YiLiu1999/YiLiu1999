@@ -4,7 +4,7 @@
 |   Topic   |     Title     |    Resource  | Publication
 |:---------:|:-------------:|:------------:|:---------:|
 |   HSI Clustering  |   [SDST: Self-supervised Double-Structure Transformer for Hyperspectral Images Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462168) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462168) | TGRS 2024
-|   HSI Clustering  |   [EMVCC:Enhanced Multi-View Contrastive Clustering for Hyperspectral Images](https://openreview.net/pdf?id=Twe5GWM0Hl) | [![Static Badge](https://img.shields.io/badge/PDF-Download-pink])](https://openreview.net/forum?id=Twe5GWM0Hl&noteId=Twe5GWM0Hl) | MM 2024
+|   HSI Clustering  |   [EMVCC:Enhanced Multi-View Contrastive Clustering for Hyperspectral Images](https://github.com/YiLiu1999/EMVCC) | [![Static Badge](https://img.shields.io/badge/PDF-Download-pink])](https://openreview.net/forum?id=Twe5GWM0Hl&noteId=Twe5GWM0Hl) | MM 2024
 
 
 - 🌱 I’m currently learning HSI Clustering
