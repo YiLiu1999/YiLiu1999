@@ -5,7 +5,7 @@
 |:---------:|:-------------:|:------------:|:---------:|
 |   HSI Clustering  |   [SDST: Self-supervised Double-Structure Transformer for Hyperspectral Images Clustering](https://github.com/YiLiu1999/SDST) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462168) | TGRS 2024
 |   HSI Clustering  |   [EMVCC:Enhanced Multi-View Contrastive Clustering for Hyperspectral Images](https://github.com/YiLiu1999/EMVCC) | [![Static Badge](https://img.shields.io/badge/PDF-Download-pink])](https://openreview.net/forum?id=Twe5GWM0Hl&noteId=Twe5GWM0Hl) | MM 2024
-|   HSI Clustering  |   [SCMVC: Semantic Constraint-based Spatial-Spectral Multi-view Clustering for Hyperspectral Images](https://github.com/YiLiu1999/SCMVC) | [![Static Badge](])](https://ieeexplore.ieee.org/document/11223688) | TGRS 2025
+|   HSI Clustering  |   [SCMVC: Semantic Constraint-based Spatial-Spectral Multi-view Clustering for Hyperspectral Images](https://github.com/YiLiu1999/SCMVC) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://ieeexplore-ieee-org-s.vpn.whu.edu.cn/document/11223688)| TGRS 2025
 
 - 🌱 I’m currently learning MLLM
 - 🔭 I’m currently working on Wuhan University and Zhongguancun Academy
