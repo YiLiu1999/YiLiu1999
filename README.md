@@ -8,8 +8,9 @@
 |   HSI Clustering  |   [SCMVC: Semantic Constraint-based Spatial-Spectral Multi-view Clustering for Hyperspectral Images](https://github.com/YiLiu1999/SCMVC) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://ieeexplore-ieee-org-s.vpn.whu.edu.cn/document/11223688)| TGRS 2025
 
 - 🌱 I’m currently learning MLLM
-- 🔭 I’m currently working on Wuhan University and Zhongguancun Academy
+- 🔭 I’m currently working on Zhongguancun Academy
 - 📫 How to reach me: liuyi@stu.cqu.edu.cn/liu979935@gmail.com/s-ly@bjzgca.edu.cn/2025102110061@whu.edu.cn
+  
 <!--
 **XY-boy/XY-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
